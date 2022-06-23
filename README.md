@@ -6,11 +6,14 @@ Nesse projeto, foram utilizados:
 * CSS;
 * JavaScript;
 
+# Aplicação
+A aplicação pode ser acessada clicando [aqui](https://to-do-list-js-three.vercel.app/)
+
 # Como Utilizar
 Caso queira rodar a aplicação localmente:
  1- Abra o terminal, e clone o repositório 
  
- - `git clone git@github.com:Adadezer/to-do-list-js.git`
+ - `git clone git@github.com:Adadezer/to-do-list-js.git.
 
   2- Entre na pasta do repositório que você acabou de clonar:
  - `cd to-do-list-js`
