@@ -19,3 +19,7 @@ Caso queira rodar a aplicação localmente:
  - `cd to-do-list-js`
 
   3- Dê 2 cliques no arquivo index.html
+#
+<span >
+  <a href="www.linkedin.com/in/adadezer-iwazaki" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</span>
