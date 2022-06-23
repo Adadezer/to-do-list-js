@@ -11,6 +11,7 @@ A aplicação pode ser acessada clicando [aqui](https://to-do-list-js-three.verc
 
 # Como Utilizar
 Caso queira rodar a aplicação localmente:
+
  1- Abra o terminal, e clone o repositório 
  
  - `git clone git@github.com:Adadezer/to-do-list-js.git`
