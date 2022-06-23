@@ -13,13 +13,14 @@ A aplicação pode ser acessada clicando [aqui](https://to-do-list-js-three.verc
 Caso queira rodar a aplicação localmente:
  1- Abra o terminal, e clone o repositório 
  
- - `git clone git@github.com:Adadezer/to-do-list-js.git.
+ - `git clone git@github.com:Adadezer/to-do-list-js.git`
 
   2- Entre na pasta do repositório que você acabou de clonar:
  - `cd to-do-list-js`
 
   3- Dê 2 cliques no arquivo index.html
-#
-<span >
-  <a href="www.linkedin.com/in/adadezer-iwazaki" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+##
+
+  <a href="https://www.linkedin.com/in/adadezer-iwazaki/" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </span>
