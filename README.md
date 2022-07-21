@@ -7,6 +7,12 @@ Nesse projeto, foram utilizados:
 * JavaScript;
 
 # Aplicação
+
+Demonstração do projeto:
+<p align="center">
+    <img windth="470" src="./gifToDoList.gif">
+</p>
+
 A aplicação pode ser acessada clicando [aqui](https://to-do-list-js-three.vercel.app/)
 
 # Como Utilizar
